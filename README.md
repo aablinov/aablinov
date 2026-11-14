@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-— 🗿 Tech Lead | Product Engineer in top adv platform
+
+- 🗿 Tech Lead | Product Engineer in top adv platform
 - 💎 Ruby-Rambo push the tempo at [Uscreen](https://www.uscreen.tv/)
 - 💪 CEO of everything at [Wannadocs](https://wannadocs.com/)
 - 🚀 Maker at [ProductHunt](https://www.producthunt.com/products/wannadocs).
